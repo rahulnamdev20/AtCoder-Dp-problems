@@ -1,2 +1,2 @@
 # AtCoder-Dp-problems
-Dynamic problems solutions
+Dynamic programming problems solutions
